@@ -11,4 +11,4 @@ Prototype: https://www.youtube.com/shorts/RwwaD3MgoHY
 [YouTube Prototype Video](https://www.youtube.com/shorts/RwwaD3MgoHY)
 
 ## Flow State and Sketches
-![Sketch and statement diagram.png]()
+![Sketch and statement diagram.png](https://github.com/ela1na/SP25-IXD-256/blob/main/Sketch%20and%20statement%20diagram.png?raw=true)

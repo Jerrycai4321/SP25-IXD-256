@@ -11,3 +11,12 @@ Prototype: https://www.youtube.com/shorts/RwwaD3MgoHY
 
 ## Flow State and Sketches
 ![Sketch and statement diagram.png](https://github.com/ela1na/SP25-IXD-256/blob/main/Sketch%20and%20statement%20diagram.png?raw=true)
+
+## material　used
+
+* Book
+* ESP-32 M5 Stack
+* Copper Tape
+* LED Stripes
+
+##

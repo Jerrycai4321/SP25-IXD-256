@@ -10,11 +10,5 @@ The Light Book is an interactive lighting experience that responds to the book's
 Prototype: https://www.youtube.com/shorts/RwwaD3MgoHY
 [YouTube Prototype Video](https://www.youtube.com/shorts/RwwaD3MgoHY)
 
-## Project Ideation
+## Flow State and Sketches
 ![Initial Idea](initialidea.jpg)
-
-![approac1](idea2.png)
-
-![approac1](idea3.jpg)
-
-![all imput](input.jpg)

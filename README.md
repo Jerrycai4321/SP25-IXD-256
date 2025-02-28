@@ -11,4 +11,4 @@ Prototype: https://www.youtube.com/shorts/RwwaD3MgoHY
 [YouTube Prototype Video](https://www.youtube.com/shorts/RwwaD3MgoHY)
 
 ## Flow State and Sketches
-![Initial Idea](initialidea.jpg)
+![Sketch and statement diagram.png](Sketch and statement diagram.png)

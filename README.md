@@ -18,6 +18,6 @@ Prototype: https://www.youtube.com/shorts/RwwaD3MgoHY
 * ESP-32 M5 Stack
 * Copper Tape
 * LED Stripes
-
+![54f8e9a911391a68724afcb55a6ab44.jpg](https://github.com/ela1na/SP25-IXD-256/blob/main/54f8e9a911391a68724afcb55a6ab44.jpg?raw=true)
 
 ##

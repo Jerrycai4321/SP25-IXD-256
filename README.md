@@ -9,6 +9,8 @@ The Light Book is an interactive lighting experience that responds to the book's
 Prototype: https://www.youtube.com/shorts/RwwaD3MgoHY
 [YouTube Prototype Video](https://www.youtube.com/shorts/RwwaD3MgoHY)
 
+![a6dfc77a6638a99d3cfded86423fd77.jpg](https://github.com/Jerrycai4321/SP25-IXD-256/blob/main/a6dfc77a6638a99d3cfded86423fd77.jpg?raw=true)
+
 ## Flow State and Sketches
 ![Sketch and statement diagram.png](https://github.com/ela1na/SP25-IXD-256/blob/main/Sketch%20and%20statement%20diagram.png?raw=true)
 

@@ -36,3 +36,48 @@ while True:
         # Book is closed
   
 ```
+
+When the book opens, the LEDs gradually turn on one by one in a soft blue ambient glow.
+
+```
+ def wake_up_animation():
+    """Lights up pixels one by one from OFF to soft blue."""
+    for i in range(30):
+        np[i] = SOFT_BLUE
+        np.write()
+        sleep(0.05)  # Animation delay
+
+```
+
+Instead of blinking, a single yellow pixel "swims" across the LED strip when the book is open for more than 10 seconds.
+
+```
+def swimming_effect():
+    """Moves a single yellow pixel across the strip."""
+    for i in range(30):
+        set_neopixel(SOFT_BLUE)  # Background remains soft blue
+        np[i] = YELLOW  # One pixel "swims"
+        np.write()
+        sleep(0.1)
+
+```
+
+When the book closes, the lights smoothly fade from purple to yellow before transitioning into a breathing effect.
+
+```
+def closing_animation():
+    """Fades from purple to yellow before settling into breathing effect."""
+    steps = 20
+    for step in range(steps):
+        ratio = step / (steps - 1)
+        r = int(PURPLE[0] + ratio * (YELLOW[0] - PURPLE[0]))
+        g = int(PURPLE[1] + ratio * (YELLOW[1] - PURPLE[1]))
+        b = int(PURPLE[2] + ratio * (YELLOW[2] - PURPLE[2]))
+
+        for i in range(30):
+            np[i] = (r, g, b)
+        np.write()
+        sleep(0.05)
+
+```
+
